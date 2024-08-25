@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # project for 3pm
+=======
+# project  
+>>>>>>> main
 
 A new Flutter project.
 
